@@ -40,6 +40,8 @@
 
 되면 GUI로 만들어 볼거임.
 
+---
+
 사용한 GUI Framework
 
 egui: https://github.com/emilk/egui
