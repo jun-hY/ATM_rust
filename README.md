@@ -39,3 +39,7 @@
 이정도 기능을 가지고 만들어 볼겁니다. 
 
 되면 GUI로 만들어 볼거임.
+
+사용한 GUI Framework
+
+egui: https://github.com/emilk/egui
